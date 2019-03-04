@@ -1,0 +1,340 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAAAAAB38AAAQ3AAAANgAAADYAAAdJAAAD7gAAAAAABAAAB4A=
+  tabs:
+  - history:
+    - pinned: false
+      title: DuckDuckGo — Privacy, simplified.
+      url: https://start.duckduckgo.com/
+    - pinned: false
+      title: github at DuckDuckGo
+      url: https://duckduckgo.com/?q=github&ia=web
+    - original-url: https://duckduckgo.com/?q=github&ia=web
+      pinned: false
+      title: The world’s leading software development platform · GitHub
+      url: https://github.com/
+    - pinned: false
+      title: Join GitHub · GitHub
+      url: https://github.com/join?source=header-home
+    - pinned: false
+      title: Sign in to GitHub · GitHub
+      url: https://github.com/login?return_to=%2Fjoin%3Fsource%3Dheader-home
+    - pinned: false
+      title: Sign in to GitHub · GitHub
+      url: https://github.com/session
+    - original-url: https://github.com/session
+      pinned: false
+      title: GitHub
+      url: https://github.com/
+    - pinned: false
+      title: Create a New Repository
+      url: https://github.com/new
+    - pinned: false
+      title: jhampl/archer
+      url: https://github.com/jhampl/archer
+    - pinned: false
+      title: jhampl/archer
+      url: https://github.com/jhampl/archer
+    - pinned: false
+      title: jhampl/archer
+      url: https://github.com/jhampl/archer
+    - pinned: false
+      title: jhampl
+      url: https://github.com/jhampl
+    - pinned: false
+      title: jhampl/archer
+      url: https://github.com/jhampl/archer
+    - pinned: false
+      title: jhampl/archer
+      url: https://github.com/jhampl/archer
+    - pinned: false
+      title: jhampl
+      url: https://github.com/jhampl
+    - pinned: false
+      title: jhampl
+      url: https://github.com/jhampl#start-of-content
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: jhampl/archer
+      url: https://github.com/jhampl/archer
+      zoom: 0.9
+  - history:
+    - pinned: false
+      title: MiB at DuckDuckGo
+      url: https://duckduckgo.com/?q=MiB&ia=web
+    - active: true
+      original-url: https://duckduckgo.com/?q=MiB&ia=web
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 8
+      title: Mebibyte - Wikipedia
+      url: https://en.wikipedia.org/wiki/Mebibyte
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: 'Hochschule Mittweida: Studierende'
+      url: https://www.hs-mittweida.de/index.php?id=155595
+    - original-url: https://www.hs-mittweida.de/studierende0/studentenportal.html
+      pinned: false
+      title: HSMW Studentenportal
+      url: https://www.intranet.hs-mittweida.de/sportal/cms/active/page.php?id=6225
+    - original-url: https://www.intranet.hs-mittweida.de/sportal/cms/active/page.php?id=6225
+      pinned: false
+      title: 'Hochschule Mittweida: Anmeldung / Login'
+      url: https://login3.hs-mittweida.de/idp/profile/SAML2/Redirect/SSO;jsessionid=110AC6DD13FAA3EE8695BB64FE143C59?execution=e1s1
+    - original-url: https://www.intranet.hs-mittweida.de/Shibboleth.sso/SAML2/POST
+      pinned: false
+      title: HSMW Mein Einschreibeformular
+      url: https://www.intranet.hs-mittweida.de/sportal/his/studenten/student.einschreibung.asp?&AuthHsmwShibboleth=1551700737
+    - pinned: false
+      title: HSMW Kursverzeichnis
+      url: https://www.intranet.hs-mittweida.de/sportal/his/kpl/kpl.index.asp?HisStudentId=77468&semId=45
+    - pinned: false
+      title: 'HSMW Kurs H.59845: Cybercrime II (H.59845)'
+      url: https://www.intranet.hs-mittweida.de/sportal/his/spl/spl.kurs.asp?id=261957
+    - pinned: false
+      title: 'HSMW Kurs H.59845: Cybercrime II (H.59845)'
+      url: https://www.intranet.hs-mittweida.de/sportal/his/kpl/kurs.info.asp?id=261957&page_id=6531
+    - pinned: false
+      title: 'HSMW Kurs H.59845: Cybercrime II (H.59845)'
+      url: https://www.intranet.hs-mittweida.de/sportal/his/kpl/kurs.einschreibung.asp?id=261957&page_id=6531&referer=
+    - pinned: false
+      title: 'HSMW Kurs H.59845: Cybercrime II (H.59845)'
+      url: https://www.intranet.hs-mittweida.de/sportal/his/kpl/kurs.info.asp?id=261957&page_id=6531
+    - pinned: false
+      title: HSMW Meine Kurse
+      url: https://www.intranet.hs-mittweida.de/sportal/his/kpl/kpl.student.asp?referer=&page_id=6531
+    - pinned: false
+      title: HSMW Mein Einschreibeformular
+      url: https://www.intranet.hs-mittweida.de/sportal/his/studenten/student.einschreibung.asp?referer=&page_id=6530
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: HSMW Mein Stundenplan
+      url: https://www.intranet.hs-mittweida.de/sportal/his/spl/spl.student.asp?referer=&page_id=6528
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: dsgvo at DuckDuckGo
+      url: https://duckduckgo.com/?q=dsgvo&ia=web
+    - original-url: https://duckduckgo.com/?q=dsgvo&ia=web
+      pinned: false
+      title: Datenschutz-Grundverordnung (EU-DSGVO) als übersichtliche Website
+      url: https://dsgvo-gesetz.de/
+    - pinned: false
+      title: Art. 1 DSGVO – Gegenstand und Ziele | Datenschutz-Grundverordnung (DSGVO)
+      url: https://dsgvo-gesetz.de/art-1-dsgvo/
+    - pinned: false
+      title: Art. 4 DSGVO – Begriffsbestimmungen | Datenschutz-Grundverordnung (DSGVO)
+      url: https://dsgvo-gesetz.de/art-4-dsgvo/
+    - pinned: false
+      title: Art. 1 DSGVO – Gegenstand und Ziele | Datenschutz-Grundverordnung (DSGVO)
+      url: https://dsgvo-gesetz.de/art-1-dsgvo/
+    - pinned: false
+      title: Art. 4 DSGVO – Begriffsbestimmungen | Datenschutz-Grundverordnung (DSGVO)
+      url: https://dsgvo-gesetz.de/art-4-dsgvo/
+    - pinned: false
+      title: Kapitel 2 – Grundsätze | Datenschutz-Grundverordnung (DSGVO)
+      url: https://dsgvo-gesetz.de/kapitel-2/
+    - pinned: false
+      title: Art. 9 DSGVO – Verarbeitung besonderer Kategorien personenbezogener Daten
+        | Datenschutz-Grundverordnung (DSGVO)
+      url: https://dsgvo-gesetz.de/art-9-dsgvo/
+    - pinned: false
+      title: Kapitel 1 – Allgemeine Bestimmungen | Datenschutz-Grundverordnung (DSGVO)
+      url: https://dsgvo-gesetz.de/kapitel-1/
+    - pinned: false
+      title: Art. 4 DSGVO – Begriffsbestimmungen | Datenschutz-Grundverordnung (DSGVO)
+      url: https://dsgvo-gesetz.de/art-4-dsgvo/
+    - pinned: false
+      title: Kapitel 2 – Grundsätze | Datenschutz-Grundverordnung (DSGVO)
+      url: https://dsgvo-gesetz.de/kapitel-2/
+    - pinned: false
+      title: Art. 9 DSGVO – Verarbeitung besonderer Kategorien personenbezogener Daten
+        | Datenschutz-Grundverordnung (DSGVO)
+      url: https://dsgvo-gesetz.de/art-9-dsgvo/
+    - pinned: false
+      title: Kapitel 1 – Allgemeine Bestimmungen | Datenschutz-Grundverordnung (DSGVO)
+      url: https://dsgvo-gesetz.de/kapitel-1/
+    - pinned: false
+      title: Art. 4 DSGVO – Begriffsbestimmungen | Datenschutz-Grundverordnung (DSGVO)
+      url: https://dsgvo-gesetz.de/art-4-dsgvo/
+    - pinned: false
+      title: Art. 1 DSGVO – Gegenstand und Ziele | Datenschutz-Grundverordnung (DSGVO)
+      url: https://dsgvo-gesetz.de/art-1-dsgvo/
+    - pinned: false
+      title: Kapitel 2 – Grundsätze | Datenschutz-Grundverordnung (DSGVO)
+      url: https://dsgvo-gesetz.de/kapitel-2/
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Art. 9 DSGVO – Verarbeitung besonderer Kategorien personenbezogener Daten
+        | Datenschutz-Grundverordnung (DSGVO)
+      url: https://dsgvo-gesetz.de/art-9-dsgvo/
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: bdsg at DuckDuckGo
+      url: https://duckduckgo.com/?q=bdsg&ia=web
+    - original-url: https://duckduckgo.com/?q=bdsg&ia=web
+      pinned: false
+      title: BDSG - nichtamtliches Inhaltsverzeichnis
+      url: https://www.gesetze-im-internet.de/bdsg_2018/
+    - pinned: false
+      title: § 38 BDSG - Einzelnorm
+      url: https://www.gesetze-im-internet.de/bdsg_2018/__38.html
+    - pinned: false
+      title: § 37 BDSG - Einzelnorm
+      url: https://www.gesetze-im-internet.de/bdsg_2018/__37.html
+    - pinned: false
+      title: § 36 BDSG - Einzelnorm
+      url: https://www.gesetze-im-internet.de/bdsg_2018/__36.html
+    - pinned: false
+      title: BDSG - nichtamtliches Inhaltsverzeichnis
+      url: https://www.gesetze-im-internet.de/bdsg_2018/index.html#BJNR209710017BJNE003700000
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 4550
+      title: BDSG - Bundesdatenschutzgesetz
+      url: https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG001300000
+      zoom: 1.2
+  - history:
+    - pinned: false
+      title: dsgvo print at DuckDuckGo
+      url: https://duckduckgo.com/?q=dsgvo+print&ia=web
+    - pinned: false
+      title: dsgvo drucken at DuckDuckGo
+      url: https://duckduckgo.com/?q=dsgvo+drucken&ia=web
+    - pinned: false
+      title: dsgvo zum drucken at DuckDuckGo
+      url: https://duckduckgo.com/?q=dsgvo+zum+drucken&ia=web
+    - pinned: false
+      title: dsgvo pdf at DuckDuckGo
+      url: https://duckduckgo.com/?q=dsgvo+pdf&ia=web
+    - active: true
+      original-url: https://duckduckgo.com/?q=dsgvo+pdf&ia=web
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 120
+      title: 'Dokumente zur DSGVO: Links und Downloads zur EU-Datenschutz-Grundverordnung
+        (EU-DSGVO) - EU-Datenschutz-Grundverordnung (EU-DSGVO)'
+      url: https://www.datenschutz-grundverordnung.eu/eu-datenschutz-grundverordnung-eu-dsgvo/dokumente-links-und-downloads/
+      zoom: 1.0
+  - history:
+    - active: true
+      original-url: http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=uriserv%3AOJ.L_.2016.119.01.0001.01.DEU&toc=OJ%3AL%3A2016%3A119%3ATOC
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 868
+      title: EUR-Lex - 32016R0679 - EN - EUR-Lex
+      url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=uriserv%3AOJ.L_.2016.119.01.0001.01.DEU&toc=OJ%3AL%3A2016%3A119%3ATOC
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: remove git repository at DuckDuckGo
+      url: https://duckduckgo.com/?q=remove+git+repository&ia=web
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 225
+      title: How to fully delete a git repository created with init? - Stack Overflow
+      url: https://stackoverflow.com/questions/1213430/how-to-fully-delete-a-git-repository-created-with-init
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: git add all folders except git at DuckDuckGo
+      url: https://duckduckgo.com/?q=git+add+all+folders+except+git&ia=web
+    - active: true
+      original-url: https://duckduckgo.com/?q=git+add+all+folders+except+git&ia=web
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: git - Add all files to a commit except a single file? - Stack Overflow
+      url: https://stackoverflow.com/questions/4475457/add-all-files-to-a-commit-except-a-single-file
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: vereinarten at DuckDuckGo
+      url: https://duckduckgo.com/?q=vereinarten&ia=web
+    - pinned: false
+      title: verein at DuckDuckGo
+      url: https://duckduckgo.com/?q=verein&ia=web
+    - original-url: https://duckduckgo.com/?q=verein&ia=web
+      pinned: false
+      title: Verein - Wikipedia
+      url: https://en.wikipedia.org/wiki/Verein
+    - pinned: false
+      title: Registered association (Germany) - Wikipedia
+      url: https://en.wikipedia.org/wiki/Registered_association_(Germany)
+    - pinned: false
+      title: Verein – Wikipedia
+      url: https://de.wikipedia.org/wiki/Verein#Eingetragener_Verein
+    - pinned: false
+      title: Verein – Wikipedia
+      url: https://de.wikipedia.org/wiki/Verein#Rechtsf%C3%A4hige_wirtschaftliche_Vereine
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 4050
+      title: Verein – Wikipedia
+      url: https://de.wikipedia.org/wiki/Verein#Eingetragener_Verein
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: Haftung at DuckDuckGo
+      url: https://duckduckgo.com/?q=Haftung&ia=web
+    - original-url: https://duckduckgo.com/?q=Haftung&ia=web
+      pinned: false
+      title: Haftung (Recht) – Wikipedia
+      url: https://de.wikipedia.org/wiki/Haftung_(Recht)
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2026
+      title: Haftung (Recht) – Wikipedia
+      url: https://de.wikipedia.org/wiki/Haftung_(Recht)#Verm%C3%B6genshaftung
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: mini gmbh at DuckDuckGo
+      url: https://duckduckgo.com/?q=mini+gmbh&ia=web
+    - active: true
+      original-url: https://duckduckgo.com/?q=mini+gmbh&ia=web
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: How To Germany - The Mini-GmbH
+      url: https://www.howtogermany.com/pages/mini-gmbh.html
+      zoom: 1.0
+  - active: true
+    history:
+    - pinned: false
+      title: git add recursive at DuckDuckGo
+      url: https://duckduckgo.com/?q=git+add+recursive&ia=web
+    - active: true
+      original-url: https://duckduckgo.com/?q=git+add+recursive&ia=web
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: git - Recursively add the entire folder to a repository - Stack Overflow
+      url: https://stackoverflow.com/questions/17743549/recursively-add-the-entire-folder-to-a-repository
+      zoom: 1.0

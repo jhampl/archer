@@ -1,0 +1,18 @@
+# !/bin/python
+import pprint
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plot
+import Compression as nvm
+import os
+from PIL import Image
+
+#a = np.zeros((10,12,3))
+#with open("g.bin", "wb") as file:
+    #file.write(str(ap.encode('ascii'))
+## Lesen von Datei
+#with open("g.bin", "r") as file:
+    #b = list(file.read())
+#print(b)
+#print(type(b))
+bild = nvm.komprimiere(os.path.abspath('../Testbilder/Lena/4.2.04.png'))

@@ -1,0 +1,113 @@
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import math
+
+#1
+a = 0
+b = 0.
+
+#2
+c = a + b
+
+#3
+#float
+print( type(c) )
+
+#4
+a_list = list(range(1,11))
+print(a_list)
+
+#6
+print ("index: wert")
+for wert in a_list:
+    print("{}: {}".format(a_list.index(wert), wert))
+
+#6
+print ("index: wert")
+for index, wert in enumerate(a_list):
+    print("{}: {}".format(index, wert))
+
+#7
+print
+
+
+#13
+rand = np.random.normal(1,2,(1000, 1000))
+print(rand.shape)
+
+#14
+print(rand[2,3])
+
+#15
+print(rand[:9,3])
+
+#16
+print(rand.shape)
+
+#17
+print(np.max(rand))
+
+#18
+print(np.mean(rand))
+
+#19
+mat_1_as_list = np.reshape(rand, -1)
+print(mat_1_as_list.shape)
+
+#20
+
+#21
+sns.distplot(mat_1_as_list, 30)
+# plt.show()
+
+#22
+def func(x):
+    return 0.5 * x**3 + 0.6 * x**2 + 0.3 * x - 1
+#23
+xs = np.linspace(-5, 15, 200)
+
+#24
+ys = [ func(x) for x in xs ]
+
+#25
+ys += np.random.normal(scale=2, size=len(ys))
+
+#26
+
+fig, ax = plt.subplots(figsize=(10,7))
+
+sns.regplot(x=xs, y=ys, marker="o", ax=ax,
+        fit_reg=False)
+ax.set(xlabel="Hours on FB", ylabel="Grades", title="Scatter plot")
+
+#27
+
+def calc_factors(xs, ys):
+    middle_x = sum(xs) / len(xs)
+    middle_y = sum(ys) / len(ys)
+    sigma_x = 0.
+    cov = 0.
+
+    for i in range(len(xs)):
+        cov += (xs[i] - middle_x) * (ys[i] - middle_y)
+        sigma_x += (xs[i] - middle_x)**2
+
+    m = cov / sigma_x 
+    b = -m * middle_x + middle_y
+
+    return m, b
+
+#29
+m, b = calc_factors(xs, ys)
+x_vals = np.linspace(0, 24, 2)
+plt.plot(x_vals, [m * x + b for x in x_vals], color="red", linestyle="--")
+# plt.show()
+
+#30
+ns = [m * x + b for x in xs]
+mse = 0.
+print(m, b)
+for i in range(len(xs)):
+   mse += 1./len(ns) * (m * xs[i] + b - ys[i])**2
+print(mse)

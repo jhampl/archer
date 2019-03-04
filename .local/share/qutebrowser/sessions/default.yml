@@ -1,0 +1,154 @@
+windows:
+- geometry: !!binary |
+    AdnQywACAAAAAAA2AAAANgAAB0kAAAPuAAAANgAAADYAAAdJAAAD7gAAAAAAAAAAB4A=
+  tabs:
+  - history:
+    - pinned: false
+      title: luke smith latex at DuckDuckGo
+      url: https://duckduckgo.com/?q=luke+smith+latex&ia=videos
+    - pinned: false
+      title: luke smith latex at DuckDuckGo
+      url: https://duckduckgo.com/?q=luke+smith+latex&ia=videos&iax=videos&iai=Mphdtdv2_xs
+    - active: true
+      original-url: https://duckduckgo.com/?q=luke+smith+latex&ia=videos&iax=videos&iai=Mphdtdv2_xs
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: My Dank vim & LaTeX Setup (wordcucks BTFO once again) - YouTube
+      url: https://www.youtube.com/watch?v=Mphdtdv2_xs
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: arch latex at DuckDuckGo
+      url: https://duckduckgo.com/?q=arch+latex&ia=web
+    - pinned: false
+      title: arch linux latex at DuckDuckGo
+      url: https://duckduckgo.com/?q=arch+linux+latex&ia=web
+    - original-url: https://duckduckgo.com/?q=arch+linux+latex&ia=web
+      pinned: false
+      title: TeX Live - ArchWiki
+      url: https://wiki.archlinux.org/index.php/TeX_Live
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: btfo at DuckDuckGo
+      url: https://duckduckgo.com/?q=btfo&ia=web
+      zoom: 1.0
+  - active: true
+    history:
+    - pinned: false
+      title: sharelatex at DuckDuckGo
+      url: https://duckduckgo.com/?q=sharelatex&ia=web
+    - original-url: https://duckduckgo.com/?q=sharelatex&ia=web
+      pinned: false
+      title: ShareLaTeX, Online LaTeX Editor
+      url: https://www.sharelatex.com/
+    - pinned: false
+      title: Login - ShareLaTeX, Online LaTeX Editor
+      url: https://www.sharelatex.com/login
+    - original-url: https://www.sharelatex.com/login
+      pinned: false
+      title: ShareLaTeX, Online LaTeX Editor
+      url: https://www.sharelatex.com/user/login_to_ol_v2
+    - original-url: https://www.sharelatex.com/user/auth_with_ol_v2
+      pinned: false
+      title: Overleaf, Online LaTeX Editor
+      url: https://www.overleaf.com/login/sharelatex/finish
+    - pinned: false
+      title: Your Projects - Overleaf, Online LaTeX Editor
+      url: https://www.overleaf.com/project
+    - active: true
+      original-url: https://www.overleaf.com/project
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Xiongmai Report - Online LaTeX Editor Overleaf
+      url: https://www.overleaf.com/project/5c07dddd73b8140891923bdb
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywACAAAAAAA2AAAANgAAA7gAAAPuAAAANgAAADYAAAO4AAAD7gAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - pinned: false
+      title: start.duckduckgo.com
+      url: https://start.duckduckgo.com/
+    - pinned: false
+      title: YouTube
+      url: https://www.youtube.com/
+    - pinned: false
+      title: How I Use My Calendar Efficiently - College Info Geek - YouTube
+      url: https://www.youtube.com/watch?v=KcWplarcZzY
+    - pinned: false
+      title: Study With Me - A 25-Minute Pomodoro Session - YouTube
+      url: https://www.youtube.com/watch?v=wYxDJOFgDw0
+    - pinned: false
+      title: YouTube
+      url: https://www.youtube.com/
+    - pinned: false
+      title: king krule - YouTube
+      url: https://www.youtube.com/results?search_query=king+krule+
+    - pinned: false
+      title: King Krule - Molten Jets - Live On The Moon - YouTube
+      url: https://www.youtube.com/watch?v=4tbXisC4Gw0
+    - pinned: false
+      title: King Krule ~ Forever Dolphin Love (remastered) - YouTube
+      url: https://www.youtube.com/watch?v=zPGYiC1P1LA
+    - pinned: false
+      title: YouTube
+      url: https://www.youtube.com/
+    - pinned: false
+      title: Lords of Magic Review | Dab on Death™ | Praise Allah® - YouTube
+      url: https://www.youtube.com/watch?v=qPvrEIZein0
+    - pinned: false
+      title: YouTube
+      url: https://www.youtube.com/
+    - pinned: false
+      title: How to Be More DISCIPLINED - 6 Ways to Master Self Control - YouTube
+      url: https://www.youtube.com/watch?v=X3vRK2P9lSU
+    - pinned: false
+      title: YouTube
+      url: https://www.youtube.com/
+    - pinned: false
+      title: YouTube
+      url: https://www.youtube.com/
+    - pinned: false
+      title: Subscriptions - YouTube
+      url: https://www.youtube.com/feed/subscriptions
+    - pinned: false
+      title: pewdiepie - YouTube
+      url: https://www.youtube.com/results?search_query=pewdiepie
+    - pinned: false
+      title: YouTube
+      url: https://www.youtube.com/
+    - pinned: false
+      title: anthony joshua vs klitschko - YouTube
+      url: https://www.youtube.com/results?search_query=anthony+joshua+vs+klitschko
+    - pinned: false
+      title: Anthony Joshua v Wladimir Klitschko | Full Fight! | 29th April 2017 -
+        YouTube
+      url: https://www.youtube.com/watch?v=RqcFZqtra3o
+    - pinned: false
+      title: Bill Burr Gets Red in the Face While Eating Spicy Wings | Hot Ones -
+        YouTube
+      url: https://www.youtube.com/watch?v=8Lvrikv6oPs
+    - pinned: false
+      title: YouTube
+      url: https://www.youtube.com/
+    - pinned: false
+      title: Anderson .Paak Sings Hot Sauce Ballads While Eating Spicy Wings | Hot
+        Ones - YouTube
+      url: https://www.youtube.com/watch?v=Eot4ZOUUNRI
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Neil deGrasse Tyson Explains the Universe While Eating Spicy Wings |
+        Hot Ones - YouTube
+      url: https://www.youtube.com/watch?v=Da8-QfGemgo
+      zoom: 1.0

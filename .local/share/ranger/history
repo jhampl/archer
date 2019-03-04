@@ -1,0 +1,7 @@
+shell rm -r
+shell rm -r %s
+shell sudo rm -r
+set show_hidden true
+search vim
+shell mv 614139.jpg %/.config/wall5.jpg
+shell mv 614139.jpg ../.config/wall5.jpg

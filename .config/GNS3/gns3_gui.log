@@ -1,0 +1,10 @@
+2018-12-18 14:35:14 INFO logger.py:126 Log level: INFO
+2018-12-18 14:35:14 INFO main.py:259 GNS3 GUI version 2.1.11
+2018-12-18 14:35:14 INFO main.py:260 Copyright (c) 2007-2018 GNS3 Technologies Inc.
+2018-12-18 14:35:14 INFO main.py:262 Application started with /usr/bin/gns3
+2018-12-18 14:35:31 ERROR node.py:433 error while starting PC-1: uBridge is not available, path doesn't exist, or you just installed GNS3 and need to restart your user session to refresh user permissions.
+2018-12-18 14:35:31 CRITICAL __init__.py:1553 uBridge is not available, path doesn't exist, or you just installed GNS3 and need to restart your user session to refresh user permissions.
+2018-12-18 14:36:45 WARNING __init__.py:1257 Please start the node in order to get the command line.
+2018-12-18 14:37:00 WARNING __init__.py:1066 This node must be started before a console can be opened
+2018-12-18 14:37:20 WARNING __init__.py:1257 Please start the node in order to get the command line.
+2018-12-18 14:37:31 ERROR http_client.py:685 uBridge requires root access or the capability to interact with network adapters

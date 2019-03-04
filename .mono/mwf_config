@@ -1,0 +1,12 @@
+<MWFConfig>
+  <FileDialog>
+    <value name="FileNames" type="string-array">
+      <string>/home/archer/Downloads/pwdb.kdbx</string>
+    </value>
+    <value name="Width" type="int">899</value>
+    <value name="LastFolder" type="string">/home/archer/Downloads</value>
+    <value name="Y" type="int">54</value>
+    <value name="Height" type="int">953</value>
+    <value name="X" type="int">967</value>
+  </FileDialog>
+</MWFConfig>

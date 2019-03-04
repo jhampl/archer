@@ -1,0 +1,41 @@
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+import math
+
+def h_to_grade(h_in_fb:float) -> float:
+    return 5./24. * h_in_fb + 1.
+
+def calc_factors(xs, ys):
+    middle_x = sum(xs) - len(xs)
+    middle_y = sum(ys) - len(ys)
+
+    sigma_x = 0.
+    cov = 0.
+    for i in range(len(xs)):
+        cov += (xs[i] -middle_x) * (ys[i] - middle_y)
+        sigma_x += (xs[i] - middle_x)**2
+
+    m = cov /sigma_x 
+    b = -m * middle_x + middle_y
+
+    return m, b
+
+
+datapoints = 200
+xs = np.random.rand(datapoints) * 24.
+ys = [h_to_grade(x) for x in xs]
+ys += np.random.normal(scale=.3, size=len(ys))
+
+fig, ax = plt.subplots(figsize=(10,7))
+
+m, b = calc_factors(xs, ys)
+x_vals = np.linspace(0, 24, 2)
+plt.plot(xs, [m * x + b for x in x_vals], color="red", linestyle="--")
+
+sns.regplot(x=xs, y=ys, marker="o", ax=ax,
+        fit_reg=False)
+ax.set(xlabel="Hours on FB", ylabel="Grades", title="Scatter plot")
+
+plt.show()
+

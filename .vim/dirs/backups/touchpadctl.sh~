@@ -1,0 +1,11 @@
+#! /bin/bash
+
+ENABLED=$(xinput list-props 12 | grep -c "Device Enabled.*151.*1")
+
+if [[ $ENABLED -gt 0 ]];
+then
+   xinput set-prop 12 151 0
+else
+   xinput set-prop 12 151 1
+fi
+

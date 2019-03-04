@@ -1,0 +1,72 @@
+*foreground: #cce0e5
+*foreground_bold: #ffe41e
+*cursor: #a8a19f
+*background:       #1b1918
+!!*background: rgba(0, 0, 0, .7)
+
+!! black
+*color0: #1b1918
+*color8: #29493b
+!! red
+*color1: #e94321
+*color9: #f22c40
+!! green
+*color2: #7ae7c7
+*color10: #5ab738
+!! yellow
+*color3: #ffc107
+*color11: #d5911a
+!! blue
+*color4: #14a0ad
+*color12: #407ee7
+!! magenta *color5: #6666ea
+*color13: #58355e
+!! cyan
+*color6: #00bcd4
+*color14: #00ad9c
+!! white
+*color7: #ffeded
+*color15: #fafff2
+
+URxvt.intensityStyles:	false
+URxvt.background:    	[70]#070a10
+URxvt.depth:		32
+!! URxvt.background:    #020533
+!! URxvt.transparent:	true
+!! URxvt.shading:	30
+URxvt.font: 		xft:Source Code Pro:style=Regular:pixelsize=18;antialias=true:hinting=true
+!! URxvt.font: 		xft:Noto Mono:style=Regular:pixelsize=20;antialias=true:hinting=true
+URxvt.letterSpace:	-1
+URxvt.scrollBar:	false
+URxvt.cursorColor:	white
+
+!! Extensions
+URxvt.perl-ext-common:	default,matcher,resize-font,url-select,keyboard-select
+URxvt.colorUL:		#4682B4
+!! url-select
+URxvt.keysym.M-u:	perl:url-select:select_next
+URxvt.url-select.launcher: linkhandler
+URxvt.url-select.underline: true
+!! keyboard-select:
+URxvt.keysym.M-Escape: perl:keyboard-select:activate
+!! resize-font
+URxvt.resize-font.smaller:	C-Down
+URxvt.resize-font.bigger:	C-Up
+!! Matcher
+URxvt.url-launcher:	linkhandler
+URxvt.matcher.button:	1
+URxvt.internalBorder: 	10
+
+!! Rofi 
+rofi.color-enabled:	true
+rofi.color-window:	#000, #000, #000
+rofi.color-normal:	#111, #819396, #222, #008ed4, #ffffff
+rofi.color-active:	#002b37, #008ed4, #003643, #008ed4, #66c6ff
+rofi.color-urgent:	#002b37, #da4281, #003643, #008ed4, #890661
+
+rofi.fake-transparency:	true
+rofi.lines:		3
+rofi.bw:		0
+rofi.opacity:		"10"
+rofi.hide-scrollbar:	true
+rofi.width:		30
